@@ -1,0 +1,127 @@
+body {
+	margin-top: 0px;
+}
+
+section {
+	min-height: 650px;
+}
+
+.jumbotron {
+	background: url("/img/roti.jpg") center;
+	background-attachment: fixed;
+	background-size: cover;
+	color: white;
+	text-shadow: 3px 3px 15px rgba(0,0,0, 1);
+	overflow: hidden;
+	height: 520px;
+}
+
+.jumbotron img {
+	width: 300px;
+	margin-top: 10px;
+	opacity: 0;
+	transition: 2s;
+	/*box-shadow: 3px 3px 15px rgba(0,0,0, 1);*/
+}
+
+.jumbotron img.logoMuncul {
+	width: 300px;
+	margin-top: 10px;
+	opacity: 1;
+	/*box-shadow: 3px 3px 15px rgba(0,0,0, 1);*/
+}
+
+.jumbotron h1 {
+	margin-top: -10px;
+	font-size: 60px;
+	opacity: 0;
+	transition: 2s;
+}
+
+.jumbotron h2 {
+	opacity: 0;
+	transition: 2s;
+}
+
+.jumbotron h1.tulisanatasMuncul {
+	margin-top: -10px;
+	font-size: 60px;
+	opacity: 1;
+}
+
+.jumbotron h2.tulisanbawahMuncul {
+	opacity: 1;
+}
+
+.produk .thumbnail{
+	opacity: 0;
+	transform: translate(0, -50px);
+	transition: 0.8s;
+}
+
+.produk h4 {
+	opacity: 0;
+	transform: translate(0, -50px);
+	transition: 0.8s;
+}
+
+.produk .thumbnail.produkMuncul {
+	opacity: 1;
+	transform: translate(0, 0);
+}
+
+.produk h4.produkMuncul {
+	opacity: 1;
+	transform: translate(0, 0);
+}
+
+.tentang {
+	background: url("/img/cabe.jpg");
+	background-attachment: fixed;
+	background-size: cover;
+}
+
+.tentang h3 {
+	opacity: 0;
+	transform: translate(-80px, 0) rotate(10deg);
+	transition: 1.5s;
+	text-align: justify;
+}
+
+.tentang h3.isiMuncul {
+	opacity: 1;
+	transform: translate(0px, 0);
+}
+
+hr {
+	width: 250px;
+	border-top: 2px solid #000;
+
+}
+
+footer {
+	position: absolute;
+	width: 100%;
+	height: 5%;
+	background-color: #772953;
+	padding: 7px;
+}
+
+.footkiri {
+	color: #fff;
+	font-size: 15px;
+	text-align: center;
+}
+
+.btn-primary:focus,
+.btn-primary.focus {
+  color: #fff;
+  background-color: #772953;
+  border-color: #772953;
+}
+
+.btn-primary:hover {
+  color: #fff;
+  background-color: #772953;
+  border-color: #772953;
+}
