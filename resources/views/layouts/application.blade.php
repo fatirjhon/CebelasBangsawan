@@ -10,14 +10,17 @@
     <title>Cebelas Bangsawan</title>
     <link href="{{{ asset('css/bootstrap.min.css')}}}" rel="stylesheet">
     <link href="{{{ asset('css/style.css')}}}" rel="stylesheet">
+    <link href="{{{ asset('css/jquery.fancybox.min.css')}}}" rel="stylesheet">
+
   </head>
 
-  <body>
+  <body data-spy="scroll" data-target=".navbar" data-offset="50">
 	@include('shared.head_nav')
 	@yield("content")
     <script src="{{{ asset('js/jquery-3.2.1.min.js')}}}"></script>
     <script src="{{{ asset('js/bootstrap.min.js')}}}"></script>
     <script src="{{{ asset('js/script.js')}}}"></script>
+    <script src="{{{ asset('js/jquery.fancybox.min.js')}}}"></script>
   </body>
 
   @include("shared.footer")

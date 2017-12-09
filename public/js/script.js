@@ -1,8 +1,8 @@
 //navbar
 $('#costumenav').not('a').hide();
 	
-$(function () {
-	$(window).scroll(function () {
+$(function() {
+	$(window).scroll(function() {
 		if ($(this).scrollTop() > 450) {
 			$('.navbar').fadeIn();
 		} else {
@@ -17,12 +17,21 @@ $('.page-scroll').on('click', function(e){
 	var tribut = $(this).attr('href');
 	var tujuan = $(tribut);
 	// console.log(tujuan);
-	$('html, body').animate({
+	$('#home, body').animate({
 		scrollTop: tujuan.offset().top -40
 		}, 1000, 'swing');
 
 	e.preventDefault();
 
+});
+
+//hover poto cistik
+$('.thumbnail').mouseenter(function(i){
+	$(this).css('opacity', 0.7);
+});
+
+$('.thumbnail').mouseleave(function(i){
+	$(this).css('opacity', 1);
 });
 
 //jumbotron effect
@@ -54,7 +63,7 @@ $(window).scroll(function(){
 		$('.tentang h3').addClass('isiMuncul');
 	}
 
-	if (siScroll > $('.produk').offset().top -200) {
+	if (siScroll > $('.produk').offset().top -350) {
 		// console.log('ok');
 		$('.produk .thumbnail').each(function(x){
 			setTimeout(function(){

@@ -20,21 +20,21 @@
 				<br>
 			</div>
 		</div>
-		<div class="row">
-			<div class="col-sm-4">
-				<a href="/img/2.jpg" class="thumbnail fancybox" rel="ligthbox">
+		<div class="row" id="potocistik">
+			<div class="col-sm-4 potocistik">
+				<a href="/img/2.jpg" data-fancybox="thumbnail" data-caption="Cheese Stick Bangsawan 2 Rasa" class="thumbnail" rel="ligthbox">
 					<img class="img-responsive" src="/img/2.jpg" alt="2">
 				</a>
 				<h4 class="text-center">Cheese Stick Bangsawan 2 Rasa</h4>
 			</div>
-			<div class="col-sm-4">
-				<a href="/img/1.jpg" class="thumbnail fancybox" rel="ligthbox">
+			<div class="col-sm-4 potocistik">
+				<a href="/img/1.jpg" data-fancybox="thumbnail" data-caption="Cheese Stick Pedas" class="thumbnail" rel="ligthbox">
 					<img class="img-responsive" src="/img/1.jpg" alt="1">
 				</a>
 				<h4 class="text-center">Cheese Stick Pedas</h4>
 			</div>
-			<div class="col-sm-4">
-				<a href="/img/3.jpg" class="thumbnail fancybox" rel="ligthbox">
+			<div class="col-sm-4 potocistik">
+				<a href="/img/3.jpg" data-fancybox="thumbnail" data-caption="Cheese Stick Original" class="thumbnail" rel="ligthbox">
 					<img class="img-responsive" src="/img/3.jpg" alt="3">
 				</a>
 				<h4 class="text-center">Cheese Stick Original</h4>
@@ -54,7 +54,7 @@
 		</div>
 		<div class="row">
 			<div class="col-sm-5 col-sm-offset-1">
-				<h3>Keripik atau kripik adalah sejenis makanan ringan berupa irisan tipis dari umbi-umbian, buah-buahan, atau sayuran yang digoreng di dalam minyak nabati. Untuk menghasilkan rasa yang gurih dan renyah biasanya dicampur dengan adonan tepung yang diberi bumbu rempah tertentu. Secara umum keripik dibuat melalui tahap penggorengan, tetapi ada pula dengan hanya melalui penjemuran, atau pengeringan. Keripik dapat berasa dominan asin, pedas, manis, asam, gurih, atau paduan dari kesemuanya. Keripik singkong banyak diproduksi di kota Bandung dengan berbagai macam rasa dan varian. Di Yogyakarta terdapat keripik berbahan baku jamur tiram. Secara umum keripik dibuat melalui tahap penggorengan, tetapi ada pula dengan hanya melalui penjemuran, atau pengeringan. Keripik atau kripik adalah sejenis makanan ringan berupa irisan tipis dari umbi-umbian, buah-buahan, atau sayuran yang digoreng di dalam minyak nabati.</h4>
+				<h3>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus sit amet dolor sed orci vestibulum venenatis sit amet at est. Nunc commodo aliquam metus eu semper. Aliquam mauris erat, ultrices cursus neque vitae, elementum scelerisque lorem. Sed venenatis sed metus ut egestas. In eget tincidunt tortor. Aliquam blandit sed urna sed scelerisque. Phasellus scelerisque tempor elit, a porta dui hendrerit id. Nulla scelerisque laoreet semper. Nam pharetra, odio ornare placerat ultricies, mauris odio maximus arcu, at hendrerit justo dolor et augue. Mauris scelerisque, diam vel aliquam lacinia, tellus erat mattis sem, at dignissim est turpis tempus ante. Suspendisse pharetra nisl a mattis fringilla. Etiam eget dolor vitae velit tempor lobortis non pretium odio. Phasellus augue urna, gravida ac euismod vitae, gravida congue ligula. Fusce ac nunc velit. Nunc tortor felis, ullamcorper non rutrum eget, semper at mauris. Nam ac neque sagittis, ultricies massa et, vestibulum turpis. Aliquam ultrices vestibulum nibh, sit amet dapibus turpis hendrerit eget. Nulla facilisi. Suspendisse placerat elit justo, ac rhoncus velit sollicitudin eget. Morbi pulvinar odio at elit venenatis, id feugiat nisl bibendum.</h4>
 			</div>		
 		</div>
 	</div>
