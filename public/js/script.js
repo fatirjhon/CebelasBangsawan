@@ -27,11 +27,17 @@ $('.page-scroll').on('click', function(e){
 
 //hover poto cistik
 $('.thumbnail').mouseenter(function(i){
-	$(this).css('opacity', 0.7);
+	$(this).css({
+		'opacity' : 0.7,
+		'transform' : 'scale(1.1, 1.1)'
+	});
 });
 
 $('.thumbnail').mouseleave(function(i){
-	$(this).css('opacity', 1);
+	$(this).css({
+		'opacity' : 1,
+		'transform' : 'scale(1, 1)'
+	});
 });
 
 //jumbotron effect
