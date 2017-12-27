@@ -9,7 +9,9 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand page-scroll" href="#home">CB</a>
+          <a class="navbar-brand page-scroll" href="#home">
+            <img src="{{{ asset('img/cb.png') }}}" alt="CB">
+          </a>
         </div>
 
         <div class="collapse navbar-collapse" id="navbar-collapse">

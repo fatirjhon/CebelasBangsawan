@@ -54,7 +54,8 @@
 		</div>
 		<div class="row">
 			<div class="col-sm-5 col-sm-offset-1">
-				<h3>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus sit amet dolor sed orci vestibulum venenatis sit amet at est. Nunc commodo aliquam metus eu semper. Aliquam mauris erat, ultrices cursus neque vitae, elementum scelerisque lorem. Sed venenatis sed metus ut egestas. In eget tincidunt tortor. Aliquam blandit sed urna sed scelerisque. Phasellus scelerisque tempor elit, a porta dui hendrerit id. Nulla scelerisque laoreet semper. Nam pharetra, odio ornare placerat ultricies, mauris odio maximus arcu, at hendrerit justo dolor et augue. Mauris scelerisque, diam vel aliquam lacinia, tellus erat mattis sem, at dignissim est turpis tempus ante. Suspendisse pharetra nisl a mattis fringilla. Etiam eget dolor vitae velit tempor lobortis non pretium odio. Phasellus augue urna, gravida ac euismod vitae, gravida congue ligula. Fusce ac nunc velit. Nunc tortor felis, ullamcorper non rutrum eget, semper at mauris. Nam ac neque sagittis, ultricies massa et, vestibulum turpis. Aliquam ultrices vestibulum nibh, sit amet dapibus turpis hendrerit eget. Nulla facilisi. Suspendisse placerat elit justo, ac rhoncus velit sollicitudin eget. Morbi pulvinar odio at elit venenatis, id feugiat nisl bibendum.</h4>
+				<h3>Cheesestick Cebelas Bangsawan didirikan Oktober tahun 2016 lalu, Untuk produksinya sendiri sudah dilakukan sejak tahun 1990 secara turun temurun.
+					Produk dibuat dengan bahan berkualitas tinggi dan kaya cita rasa khas yang tidak berubah dimakan waktu. Cemilan yang cocok dikonsumsi untuk segala usia , tersedia dua variant rasa yakni Original dan pedas. Teksturnya yang kriuk membuat cheesestick Cebelas bangsawan dapat mudah diterima disemua kalangan..</h4>
 			</div>		
 		</div>
 	</div>

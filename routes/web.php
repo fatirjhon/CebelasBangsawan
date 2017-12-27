@@ -18,3 +18,7 @@ Route::get('/', function () {
 Route::get('cebelasbangsawan', function () {
     return view('cb.cistik');
 });
+
+Route::get('cobavue', function () {
+    return view('cb.cobavue');
+});

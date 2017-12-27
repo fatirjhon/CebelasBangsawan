@@ -98,6 +98,12 @@ hr {
 
 }
 
+header img {
+	width: 50px;
+	position: absolute;
+	margin-top: -11px;
+}
+
 footer {
 	position: absolute;
 	width: 100%;
